@@ -1,7 +1,16 @@
-👋Hi there, I'm 404notfound-xyye(404NotFound_xyYe).
+# 👋Hi there
+# I'm 404notfound-xyye(404NotFound_xyYe).
 
-· I am a middle school student that learning DSE in China(Mainland). 
+## Who I am?
 
-· Operators and owners of xyye.xyz
+- I am a middle school student that learning DSE in China(Mainland).
 
-· Currently likes to toss all kinds of interesting things
+- Operators and owners of xyye.xyz
+
+- Currently likes to toss all kinds of interesting things
+
+## Know more about me?
+
+- Visit my website: www.xyye.xyz
+
+- Email to: github@mail.xyye.xyz
