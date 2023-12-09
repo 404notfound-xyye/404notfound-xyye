@@ -1,1 +1,2 @@
-# 404NotFound_xyYe
+👋🏻Hello, I'm xyYe
+A grade 9 student
