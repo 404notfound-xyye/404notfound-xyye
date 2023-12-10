@@ -9,7 +9,7 @@
 
 - Currently likes to toss all kinds of interesting things
 
-## Know more about me?
+## More about me?
 
 - Visit my website: www.xyye.xyz
 
