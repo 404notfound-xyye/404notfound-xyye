@@ -3,7 +3,7 @@
 
 ## Who I am?
 
-- I am a middle school student that learning DSE in China(Mainland). Also planing to learn ICT in G10.
+- A student that learning DSE in China(Mainland). Also planing to learn ICT in future.
 
 - Operators and owners of xyye.xyz.
 
@@ -13,8 +13,6 @@
 
 - Visit my website: www.xyye.xyz
 
-- Github: https://github.com/404notfound-xyye
-
 - Email to: i@mail.xyye.xyz
 
 - Bilibili: https://space.bilibili.com/587973682
@@ -23,8 +21,6 @@
 
 - Homepage/Blog : www.xyye.xyz
 
-- Servers Status: https://tz.xyye.xyz  (All these listed servers have joined ping0.cc ping-plan)
+- Uptime ping: htttp://status.xyye.xyz
 
-- Servers Speedtest(LookingGlass): https://speed.xyye.xyz
-
-- Free imagebed: https://img.xyye.xyz
+- Servers Speedtest(LookingGlass): https://alg.xyye.xyz
