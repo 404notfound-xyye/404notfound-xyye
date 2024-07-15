@@ -5,22 +5,20 @@
 
 - A student that learning DSE in China(Mainland). Also planing to learn ICT in future.
 
-- Operators and owners of xyye.xyz.
+- Operators and owners of aye.moe and xyye.xyz.
 
 - Currently likes to try all kinds of interesting things.
 
 ## More about me?
 
-- Visit my website: www.xyye.xyz
+- Visit my website: www.aye.moe or www.xyye.xyz
 
-- Email to: i@mail.xyye.xyz
-
-- Bilibili: https://space.bilibili.com/587973682
+- Email to: github@mail.aye.moe or github@mail.xyye.xyz
 
 ## Information about my website?
 
-- Homepage/Blog : www.xyye.xyz
+- Blog : https://www.aye.moe or https://www.xyye.xyz
 
-- Uptime ping: htttp://status.xyye.xyz
+- Uptime: htttp://uptime.aye.moe or https://uptime.xyye.xyz
 
-- Servers Speedtest(LookingGlass): https://alg.xyye.xyz
+- Server Status: https://tz.aye.moe  or https://tz.xyye.xyz
