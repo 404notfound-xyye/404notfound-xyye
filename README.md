@@ -11,14 +11,14 @@
 
 ## More about me?
 
-- Visit my website: www.aye.moe or www.xyye.xyz
+- Visit my website: www.aye.moe
 
 - Email to: github@mail.aye.moe or github@mail.xyye.xyz
 
 ## Information about my website?
 
-- Blog : https://www.aye.moe or https://www.xyye.xyz
+- Blog : https://www.aye.moe
 
-- Uptime: htttp://uptime.aye.moe or https://uptime.xyye.xyz
+- Uptime: httts://uptime.aye.moe
 
-- Server Status: https://tz.aye.moe  or https://tz.xyye.xyz
+- Server Status: https://tz.aye.moe
