@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">Blog: www.aye.moe</p>
+<p align="center">Home: www-neo.aye.moe</p>
 
 <p align="center">Email: github@mail.aye.moe</p>
 
