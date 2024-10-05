@@ -3,9 +3,8 @@
 
 ---
 
-<p align="center">Home: www-neo.aye.moe</p>
+<p align="center">Personal Website: www-neo.aye.moe</p>
 
 <p align="center">Email: github@mail.aye.moe</p>
 
 <p align="center">Telegram: @xyye_404notfound</p>
-
