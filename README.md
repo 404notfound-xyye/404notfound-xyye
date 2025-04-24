@@ -3,6 +3,6 @@
 
 ---
 
-<p align="center">Website: www.aye.moe</p>
+<p align="center">Website: www.alex-y.dev</p>
 
-<p align="center">Email: github@mail.aye.moe</p>
+<p align="center">Email: github@mail.aye.moe / github@mail.alex-y.dev</p>
